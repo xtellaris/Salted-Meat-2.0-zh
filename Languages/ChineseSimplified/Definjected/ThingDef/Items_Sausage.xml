@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
     <!-- Original: raw sausage-->
     <SM_Sausage_Raw.label>生香肠</SM_Sausage_Raw.label>
@@ -11,3 +12,4 @@
     <SM_Sausage.description>一段被香料盐渍后塞进肠衣里加工的肉，肠衣一般由薄皮革或一整段动物肠道制成。香肠一旦风干，就会获得独特的风味。\n\n最上等的香肠往往被看作是最奢华的中世纪佳肴。</SM_Sausage.description>
 
 </LanguageData>
+

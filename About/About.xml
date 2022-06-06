@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Salted Meat 2.0 zh（腌肉与香肠2.0汉化）</name>
 	<author>xtellaris</author>
-	<packageId>ChinesePackage.SaltedMeatRemake</packageId>
+	<packageId>xtellaris.zh.SaltedMeatRemake</packageId>
 	<url></url>
 	<supportedVersions>
 		<li>1.1</li>

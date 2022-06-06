@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="Assets/Preview-zh.png">
+</h1>
+
+---
+
 # Salted-Meat-2.0-zh | 腌肉与香肠2.0 汉化
 
 RimWorld原版里的食物贮藏手段实在少得可怜，加了腌肉模组就会好很多。[初版的腌肉模组](https://steamcommunity.com/sharedfiles/filedetails/?id=2233817757)在创意工坊有一个[完善的汉化包](https://steamcommunity.com/sharedfiles/filedetails/?id=2235836860)，但[2.0版本](https://steamcommunity.com/sharedfiles/filedetails/?id=2606419180)没有，于是我便动手写了这个汉化包。 | The unmodified RimWorld lacks of methods to preserve foods, Mod Salted-Meat would improve it. There is [a nice Chinese language pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2235836860) in the workshop for [the first version of Salted-Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2233817757), but [v2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2606419180) did not be localized, so I made this language pack.

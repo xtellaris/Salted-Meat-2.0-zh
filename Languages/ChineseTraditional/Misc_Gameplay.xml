@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<!-- Original: Meat to insert-->
-	<SM_InsertMeatDesc>需要醃製的肉類</SM_InsertMeatDesc>
+	<SM_InsertMeatDesc>需要掛上肉類</SM_InsertMeatDesc>
 	<!-- Original: Insert meat-->
 	<SM_StartInsertionMeat>掛上肉類</SM_StartInsertionMeat>
 
@@ -14,7 +14,7 @@
 	<SM_CancelBringingMeatDesc>取消向醃肉架上掛肉</SM_CancelBringingMeatDesc>
 
 	<!-- Original: Fish to insert-->
-	<SM_InsertFishDesc>需要風乾的漁獲</SM_InsertFishDesc>
+	<SM_InsertFishDesc>需要掛上漁獲</SM_InsertFishDesc>
 	<!-- Original: Insert fish-->
 	<SM_StartInsertionFish>掛上漁獲</SM_StartInsertionFish>
 	<!-- Original: Bring fish to the drying rack to start the drying process.-->
@@ -25,7 +25,7 @@
 	<SM_CancelBringingFishDesc>取消向乾魚架上掛魚</SM_CancelBringingFishDesc>
 
 	<!-- Original: Sausages to insert-->
-	<SM_InsertSausageDesc>需要掛上的生腸</SM_InsertSausageDesc>
+	<SM_InsertSausageDesc>需要掛上生腸</SM_InsertSausageDesc>
 	<!-- Original: Insert sausages-->
 	<SM_StartInsertionSausage>掛上生腸</SM_StartInsertionSausage>
 	<!-- Original: Bring raw sausages to the sausage to let them age.-->

@@ -3,6 +3,6 @@
     <!-- Original: Extract salt from rock chunks-->
     <SM_ExtractSaltFromChunk.label>从石块中提取盐</SM_ExtractSaltFromChunk.label>
     <!-- Original: Crush stone chunks to filter the amounts of salt contained. It takes time, but profits very well.-->
-    <SM_ExtractSaltFromChunk.description>粉碎石块以过滤所蕴含含盐分。 这项工作比较废时，但收益颇多。</SM_ExtractSaltFromChunk.description>
+    <SM_ExtractSaltFromChunk.description>粉碎石块以过滤所蕴含盐分。 这项工作比较废时，但收益颇多。</SM_ExtractSaltFromChunk.description>
     <SM_ExtractSaltFromChunk.jobString>正在从石块中提取盐</SM_ExtractSaltFromChunk.jobString>
 </LanguageData>

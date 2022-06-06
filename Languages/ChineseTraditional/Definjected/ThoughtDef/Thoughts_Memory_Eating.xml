@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <SM_IngestedSausage.stages..label></SM_IngestedSausage.stages..label>
+    <SM_IngestedSausage.stages..description></SM_IngestedSausage.stages..description>
+
+    <!-- Original: ate awful sausage-->
+    <SM_IngestedSausage.stages.ate_awful_sausage.label>吃了恶心的香肠</SM_IngestedSausage.stages.ate_awful_sausage.label>
+    <!-- I ate a mixture of raw meat with salt grains that could barely be called a sausage. Completely disgusting.-->
+    <SM_IngestedSausage.stages.ate_awful_sausage.description>我吃了生肉和盐粒做的泔水，这怎么能叫香肠。恶心啊恶心。</SM_IngestedSausage.stages.ate_awful_sausage.description>
+
+    <!-- Original: ate poor sausage-->
+    <SM_IngestedSausage.stages.ate_poor_sausage.label>吃了劣质的香肠</SM_IngestedSausage.stages.ate_poor_sausage.label>
+    <!-- Orinigal: That sausage was a little humid to be completely mature, I could still feel the flavour of raw meat.-->
+    <SM_IngestedSausage.stages.ate_poor_sausage.description>这根香肠没有完全风干，我还是能尝出生肉的味道。</SM_IngestedSausage.stages.ate_poor_sausage.description>
+
+    <!-- Original: ate normal sausage-->
+    <SM_IngestedSausage.stages.ate_normal_sausage.label>吃了一般的香肠</SM_IngestedSausage.stages.ate_normal_sausage.label>
+
+    <!-- Original: ate good sausage-->
+    <SM_IngestedSausage.stages.ate_good_sausage.label>吃了精致的香肠</SM_IngestedSausage.stages.ate_good_sausage.label>
+    <!-- Original: I ate a nice and tasty sausage.-->
+    <SM_IngestedSausage.stages.ate_good_sausage.description>我吃了可口的香肠。</SM_IngestedSausage.stages.ate_good_sausage.description>
+
+    <!-- Oiginal: ate excellent sausage-->
+    <SM_IngestedSausage.stages.ate_excellent_sausage.label>吃了极佳的香肠</SM_IngestedSausage.stages.ate_excellent_sausage.label>
+    <!-- Original: That sausage was delicious. It's easy to notice it has been well aged.-->
+    <SM_IngestedSausage.stages.ate_excellent_sausage.description>这跟香肠很美味，一尝便知它风干得很好。</SM_IngestedSausage.stages.ate_excellent_sausage.description>
+
+    <!-- Original: ate masterwork sausage-->
+    <SM_IngestedSausage.stages.ate_masterwork_sausage.label>吃了大师级的香肠</SM_IngestedSausage.stages.ate_masterwork_sausage.label>
+    <!-- Original: I experienced a flavour only thought to be felt by the most refined palates!-->
+    <SM_IngestedSausage.stages.ate_masterwork_sausage.description>我品尝到了只有最精致的佳肴才会拥有的味道！</SM_IngestedSausage.stages.ate_masterwork_sausage.description>
+
+    <!-- Original: ate legendary sausage-->
+    <SM_IngestedSausage.stages.ate_legendary_sausage.label>吃了传奇级的香肠</SM_IngestedSausage.stages.ate_legendary_sausage.label>
+    <!-- Original: To be able to taste a food this delicious is something not ordinary! I'm completely pleased!-->
+    <SM_IngestedSausage.stages.ate_legendary_sausage.description>能吃到如此美味的食物，真是非同一般，我满意极了！</SM_IngestedSausage.stages.ate_legendary_sausage.description>
+
+</LanguageData>

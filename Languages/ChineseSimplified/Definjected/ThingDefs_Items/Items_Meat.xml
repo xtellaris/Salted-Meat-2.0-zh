@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
     <!-- Original: salted meat-->
     <SM_SaltedMeat.label>腌肉</SM_SaltedMeat.label>
     <!-- Original: Meat preserved with salt. Salt absorbs water and kills bacteria, preventing them to rot the meat.-->
-    <SM_SaltedMeat.description>用盐保存的肉类。加盐腌制能吸收水分并杀死细菌，防止肉类腐败</SM_SaltedMeat.label>
+    <SM_SaltedMeat.description>用盐保存的肉类。加盐腌制能吸收水分并杀死细菌，防止肉类腐败</SM_SaltedMeat.description>
 
     <!-- Original: Salt-->
     <SM_Salt.label>盐</SM_Salt.label>
     <!-- Original: A mineral obtained from rocks that once processed is capable of rising the flavours of food. Salting is one of the oldest and most effective food preservation methods.-->
     <SM_Salt.description>可从石块里获取的矿物质，具有提升食物味道的功效。盐渍则是一种古老而最有效的食物保存方法。</SM_Salt.description>
+
 </LanguageData>

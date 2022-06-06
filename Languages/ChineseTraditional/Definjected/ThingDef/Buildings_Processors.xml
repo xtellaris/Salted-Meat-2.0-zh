@@ -2,14 +2,14 @@
 
 <LanguageData>
 
-    <!-- Original: meat rack-->
+    <!-- EN: meat rack-->
     <SM_MeatRack.label>醃肉架</SM_MeatRack.label>
     <!-- Origianl: A wooden rack where meat are hung and salted until their humidity levels are extremely low, once this process is finished, the salted meat is ready to be used in cooking or stored for long periods of time.-->
     <SM_MeatRack.description>一個用來風乾醃肉的木架子，一旦醃製完成，醃肉就可以用來烹飪或長時間儲存。</SM_MeatRack.description>
 
-    <!-- Original: sausage post-->
+    <!-- EN: sausage post-->
     <SM_SausagePost.label>香腸架</SM_SausagePost.label>
-    <!-- Original: A wooden post used to hang sausages and let them age. Sausages need to stay at a relatively cool temperature in order to properly dry and achieve their undistinguishable flavour.-->
+    <!-- EN: A wooden post used to hang sausages and let them age. Sausages need to stay at a relatively cool temperature in order to properly dry and achieve their undistinguishable flavour.-->
     <SM_SausagePost.description>一個用來風乾香腸的木架子。香腸需要保持在相對涼爽的溫度下才能恰當乾燥，並達到其別具一格的風味。</SM_SausagePost.description>
 
 </LanguageData>

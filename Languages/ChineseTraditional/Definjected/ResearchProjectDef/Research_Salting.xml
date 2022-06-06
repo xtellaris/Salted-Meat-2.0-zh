@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-    <!-- Original: salt preservation-->
+    <!-- EN: salt preservation-->
     <SM_SaltingTechniques.label>醃製保存</SM_SaltingTechniques.label>
-    <!-- Original: Learn to properly preserve meat with salt and to make delicious sausages.-->
+    <!-- EN: Learn to properly preserve meat with salt and to make delicious sausages.-->
     <SM_SaltingTechniques.description>學會正確地用鹽保存肉類，以及製作美味的香腸。</SM_SaltingTechniques.description>
 
 </LanguageData>

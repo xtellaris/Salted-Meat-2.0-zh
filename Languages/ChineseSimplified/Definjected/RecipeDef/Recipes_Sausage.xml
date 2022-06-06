@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <!-- Original: SM_MakeSausage-->
+    <!-- EN: SM_MakeSausage-->
     <SM_MakeSausage.label>灌制香肠</SM_MakeSausage.label>
-    <!-- Original: Tuck grounded meat mixed with salt into a small leather bag or animal gut to make a sausage.\n\nSausages need to be aged at a certain temperature before they can be consumed.-->
+    <!-- EN: Tuck grounded meat mixed with salt into a small leather bag or animal gut to make a sausage.\n\nSausages need to be aged at a certain temperature before they can be consumed.-->
     <SM_MakeSausage.description>将与盐混合的碎肉塞入一个小皮袋或动物内脏中，制成香肠。\n\n香肠需要在一定温度下熟化后才能食用。</SM_MakeSausage.description>
     <SM_MakeSausage.jobString>正在灌制香肠</SM_MakeSausage.jobString>
 </LanguageData>

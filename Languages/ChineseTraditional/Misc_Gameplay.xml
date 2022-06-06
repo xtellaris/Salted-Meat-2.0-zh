@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Original: Meat to insert-->
+	<SM_InsertMeatDesc>需要醃製的肉類</SM_InsertMeatDesc>
+	<!-- Original: Insert meat-->
+	<SM_StartInsertionMeat>掛上肉類</SM_StartInsertionMeat>
+
+	<!-- Original: Bring meat to the meat rack to start the salting process.-->
+	<SM_StartInsertionMeatDesc>向醃肉架掛上肉類來醃製</SM_StartInsertionMeatDesc>
+	<!-- Original: Cancel bringing meat-->
+	<SM_CancelBringingMeat>取消掛肉</SM_CancelBringingMeat>
+	<!-- Original: Cancel bringing meat to the meat rack.-->
+	<SM_CancelBringingMeatDesc>取消向醃肉架上掛肉</SM_CancelBringingMeatDesc>
+
+	<!-- Original: Fish to insert-->
+	<SM_InsertFishDesc>需要風乾的漁獲</SM_InsertFishDesc>
+	<!-- Original: Insert fish-->
+	<SM_StartInsertionFish>掛上漁獲</SM_StartInsertionFish>
+	<!-- Original: Bring fish to the drying rack to start the drying process.-->
+	<SM_StartInsertionFishDesc>向乾魚架掛上漁獲來風乾</SM_StartInsertionFishDesc>
+	<!-- Original: Cancel bringing fish-->
+	<SM_CancelBringingFish>取消掛魚</SM_CancelBringingFish>
+	<!-- Original: Cancel bringing fish to the drying rack.-->
+	<SM_CancelBringingFishDesc>取消向乾魚架上掛魚</SM_CancelBringingFishDesc>
+
+	<!-- Original: Sausages to insert-->
+	<SM_InsertSausageDesc>需要掛上的生腸</SM_InsertSausageDesc>
+	<!-- Original: Insert sausages-->
+	<SM_StartInsertionSausage>掛上生腸</SM_StartInsertionSausage>
+	<!-- Original: Bring raw sausages to the sausage to let them age.-->
+	<SM_StartInsertionSausageDesc>向香腸架掛上生腸來風乾</SM_StartInsertionSausageDesc>
+	<!-- Original: Cancel bringing sausage-->
+	<SM_CancelBringingSausage>取消掛生腸</SM_CancelBringingSausage>
+	<!-- Original: Cancel bringing sausages to the sausage post.-->
+	<SM_CancelBringingSausageDesc>取消向香腸架掛生腸</SM_CancelBringingSausageDesc>
+	<!-- Original: Remove sausages-->
+	<SM_RemoveSausage>取下香腸</SM_RemoveSausage>
+	<!-- Original: Remove sausages from the sausage post.-->
+	<SM_RemoveSausageDesc>從香腸架取下香腸</SM_RemoveSausageDesc>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+    <!-- Original: raw sausage-->
+    <SM_Sausage_Raw.label>生香腸</SM_Sausage_Raw.label>
+    <!-- Original: A raw sausage ready to be hung on a post to age.-->
+    <SM_Sausage_Raw.description>一根準備好掛在香腸架上風乾的生香腸</SM_Sausage_Raw.description>
+
+    <!-- Original: sausage-->
+    <SM_Sausage.label>香腸</SM_Sausage.label>
+    <!-- Original: Meat spiced up and salted tucked inside of an tube-shaped element usually made from thin leather or a whole animal gut. Sausages acquire an unique flavour once they dry and age enough.\n\nThe highest qualities of sausages are often considered to be extremely lavish by the most refinated medieval palates.-->
+    <SM_Sausage.description>一段被香料鹽漬後塞進腸衣里加工的肉，腸衣一般由薄皮革或整塊動物內臟製成。香腸一旦風乾，就會獲得獨特的風味。\n\n最上等的香腸往往被看作是最奢華的中世紀佳餚。</SM_Sausage.description>
+
+</LanguageData>

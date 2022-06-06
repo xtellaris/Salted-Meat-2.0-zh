@@ -25,15 +25,15 @@
 	<SM_CancelBringingFishDesc>取消向乾魚架上掛魚</SM_CancelBringingFishDesc>
 
 	<!-- Original: Sausages to insert-->
-	<SM_InsertSausageDesc>需要掛上生腸</SM_InsertSausageDesc>
+	<SM_InsertSausageDesc>需要掛上生香腸</SM_InsertSausageDesc>
 	<!-- Original: Insert sausages-->
-	<SM_StartInsertionSausage>掛上生腸</SM_StartInsertionSausage>
+	<SM_StartInsertionSausage>掛上生香腸</SM_StartInsertionSausage>
 	<!-- Original: Bring raw sausages to the sausage to let them age.-->
-	<SM_StartInsertionSausageDesc>向香腸架掛上生腸來風乾</SM_StartInsertionSausageDesc>
+	<SM_StartInsertionSausageDesc>向香腸架掛上生香腸來風乾</SM_StartInsertionSausageDesc>
 	<!-- Original: Cancel bringing sausage-->
-	<SM_CancelBringingSausage>取消掛生腸</SM_CancelBringingSausage>
+	<SM_CancelBringingSausage>取消掛生香腸</SM_CancelBringingSausage>
 	<!-- Original: Cancel bringing sausages to the sausage post.-->
-	<SM_CancelBringingSausageDesc>取消向香腸架掛生腸</SM_CancelBringingSausageDesc>
+	<SM_CancelBringingSausageDesc>取消向香腸架掛生香腸</SM_CancelBringingSausageDesc>
 	<!-- Original: Remove sausages-->
 	<SM_RemoveSausage>取下香腸</SM_RemoveSausage>
 	<!-- Original: Remove sausages from the sausage post.-->

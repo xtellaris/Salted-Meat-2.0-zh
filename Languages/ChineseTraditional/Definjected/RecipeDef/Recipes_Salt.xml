@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- Original: Extract salt from rock chunks-->
+    <SM_ExtractSaltFromChunk.label>從石塊中提取鹽</SM_ExtractSaltFromChunk.label>
+    <!-- Original: Crush stone chunks to filter the amounts of salt contained. It takes time, but profits very well.-->
+    <SM_ExtractSaltFromChunk.description>粉碎石塊以過濾所蘊含鹽分。 這項工作比較廢時，但收益頗多。</SM_ExtractSaltFromChunk.description>
+    <SM_ExtractSaltFromChunk.jobString>正在從石塊中提取鹽</SM_ExtractSaltFromChunk.jobString>
+</LanguageData>
